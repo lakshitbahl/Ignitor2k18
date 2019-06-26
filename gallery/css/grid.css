@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding:0;
+    background:radial-gradient(50% 30% ellipse at center bottom, #201e40 0%, rgba(0,0,0,0) 100%),
+    radial-gradient(60% 50% ellipse at center top, #261226 0%, #100a1c 100%); ;
+}
+.container{
+    width:90%;
+    margin: 0 auto;
+}
+.head{
+    text-align: center;
+    width: 35%;
+    margin: 0 auto;
+    color: #fff;
+    text-transform:uppercase;
+    font-size: 1.5rem;
+    
+}
+h1{
+    padding:10px 0px;
+    margin:0;
+}
+.container img{
+    width:33%; 
+    padding: 2% 2%;
+    filter: grayscale(60%);
+    transition:all ease-in-out 0.5s;
+    height: 250px;
+    margin-bottom: 10px;
+}
+.container img:hover{
+    transform: scale(1.1);
+    filter: grayscale(0);
+}

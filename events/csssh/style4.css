@@ -1,0 +1,35 @@
+
+
+.cgc-img-1 { 
+	background-image: url(http://www.danyariver.com/wp-content/uploads/2016/11/studio-vocals-250x250.jpg);
+	background-size: 250px;
+    z-index: 6;
+}
+
+.cgc-img-2 { 
+	background-image: url(https://hyphenmagazine.com/sites/default/files/styles/full_node/public/blog/2010/06/indian-men-love-dance-apparently/Bhangra_group_Dance.gif?itok=MYzqYJos);
+	background-size: 250px;
+    z-index: 5;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cgc-img-3 { 
+	background-image: url(http://weclipart.com/gimg/8F79CE30E7BF27F7/eTMk6nyrc.jpeg);
+	background-size: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+    z-index: 4;
+}
+.cgc-img-4 { 
+	background-image: url(../images/west.jpg);
+	background-size: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 3;
+}
+.cgc-img-5 { 
+	background-image: url(http://fashionxt.com/wp-content/uploads/2016/06/Photo-Oct-07-9-30-12-PM-e1467414268933-250x250.jpg);
+	background-size: 250px;
+    z-index: 2;
+}
